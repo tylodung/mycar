@@ -3,7 +3,7 @@ layout: post
 title: "The war vessel, America’s sports automotive, nearly didn’t survive the nice Recession"
 date: 2019-07-22 12:26:40
 image: 'https://d32c3oe4bky4k6.cloudfront.net/articles-videos/-/media/uscamediasite/images/story-images/2019/01/30/bottom_1948_buick_superestatewagon_mecum.ashx?modified=20190130190915&mw=1440&hash=9139C18283ACB4FB47C5257471F2C3200CE9B45B'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: My Cars.
 category: 'tutorial'
 tags:
 - CAR REVIEWS
@@ -12,7 +12,7 @@ introduction:
 
 Chevrolet’s official reveal of its eighth-generation war vessel in a very splashy preview Th night close to l. a. marks the fruits of a secret project that traces its roots back over half a century.
 
-But that’s no surprise. Over the years, abundant of the work on the ”’Vette” has been conducted out of sight — in some cases hidden even from the highest brass at parent company General Motors that, at numerous points, has thought-about killing off what has come back to be called “America’s sports automotive.”
+But that’s no surprise. Over the years, abundant of the work on the ”Vette” has been conducted out of sight — in some cases hidden even from the highest brass at parent company General Motors that, at numerous points, has thought-about killing off what has come back to be called “America’s sports automotive.”
 
 From the terribly begin, g didn’t quite recognize what to try and do with the war vessel. the initial model was solely meant to be a flashy construct vehicle, developed for the mobile Motorama automotive shows the carmaker staged across the country, however the planning evidenced thus common that g rush out plans to place it into production.
 
