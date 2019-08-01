@@ -8,15 +8,6 @@
         <section class="post">
 
             <article role="article" id="post" class="post-content" itemprop="articleBody">
-			<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ngangnha -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:158px"
-     data-ad-client="ca-pub-1188636005440492"
-     data-ad-slot="1156866551"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
