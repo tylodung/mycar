@@ -2,7 +2,7 @@
 layout: post
 title: "Tesla becomes best selling brand in Norway, pushing electric car market share to almost 50%"
 description: My Cars.
-image: 'https://cleantechnica.com/files/2019/02/BYD-Yuan-Press-Image.jpg'
+image: 'http://secureservercdn.net/198.71.233.141/9b9.158.myftpupload.com/wp-content/uploads/2018/10/dmp8276-750x500-750x400.jpg'
 category: ''
 tags:
 - AUTO CAR
