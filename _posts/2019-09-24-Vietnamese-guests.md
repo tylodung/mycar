@@ -2,7 +2,7 @@
 layout: post
 title: "Vietnamese guests can test drive VinFast Lux with foreign experts, partners of Ferrari, Rolls-Royce"
 description: My Cars.
-image: 'https://autopro8.mediacdn.vn/thumb_w/640/2019/7/25/thu-nghiem-vinfast-lux-4-15640102661621474392638-crop-1569265127168798258591.jpg'
+image: 'https://autopro8.mediacdn.vn/thumb_w/600/2019/9/24/vinfast-lai-thu-1569264995221122164960-crop-15692650093631076158406.jpg'
 category: ''
 tags:
 - NEWS CAR
