@@ -2,7 +2,7 @@
 layout: post
 title: "Ferrari F8 Tributo left Vietnam and set off for Thailand"
 description: My Cars.
-image: 'https://live.staticflickr.com/65535/48960556271_e896cc4da7_b.jpg'
+image: 'https://live.staticflickr.com/65535/48960780247_6c4ffd9da2_b.jpg'
 category: ''
 tags:
 - NEWS CAR
